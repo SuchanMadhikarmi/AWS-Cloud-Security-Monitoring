@@ -1,4 +1,4 @@
-<h1>AWS Cloud Security Monitoring with CIS Benchmark Compliance</h1>
+<h1>Cloud Security Project: AWS Cloud Security Monitoring with CIS Benchmark Compliance</h1>
 
 
 
