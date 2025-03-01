@@ -85,7 +85,8 @@ This project focuses on strengthening cloud security monitoring by leveraging AW
 <br />
 
 <h2>Key Learnings</h2>
- - Gained hands-on experience with AWS security monitoring.
+
+- Gained hands-on experience with AWS security monitoring.
 
 - Learned how to configure AWS Config, Security Hub, and CloudTrail.
 
